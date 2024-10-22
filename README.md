@@ -6,7 +6,7 @@
 ## Athena
 - tbd
 
-## Atlas
+## Atlas & LTI
 - [Project Board](https://github.com/orgs/ls1intum/projects/38)
 
 ## Build Agent
@@ -31,9 +31,6 @@
 - tbd
 
 ## Lecture
-- tbd
-
-## LTI
 - tbd
 
 ## Modeling
